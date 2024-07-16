@@ -480,6 +480,16 @@ footer{
     .project-container #project-4{
         background-image: url('../../assets/Images/projects/Project04.png');
     }
+    .project-container #project-5{
+        background-image: url('../../assets/Images/projects/Project05.png');
+    }
+    .project-container #project-6{
+        background-image: url('../../assets/Images/projects/Project06.png');
+    }
+    .project-container #project-7{
+        background-image: url('../../assets/Images/projects/Project06.png');
+    }
+
 
     .project-card:nth-child(even){
         align-self: flex-end;
